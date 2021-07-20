@@ -22,4 +22,5 @@ Nowdays we are seeing that fuel is becoming necessity in our busy lifestyle. So 
 - using dataframe() function in pandas create a table of the data
 - print that data
 ## Sample Output:
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://github.com/Aditya8821/Real-Time-Petrol-Price/blob/main/Images/Demo%20Output.png"></p>
+Feedbacks Would Be Welcomed🙌
